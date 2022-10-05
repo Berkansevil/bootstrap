@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+ background-color: #E9ECEF;
+}
+.anasayfa{
+    
+    margin: 40px 45px;
+    text-align: center;
+}
+.orta{
+    text-align: center;
+    list-style-type: none;
+    
+}
+.btn{
+    position: absolute;
+    /* translate, top ve left degerleri olmadan tam ortalamaz! */
+    
+    left: 45%;
+    top:90%;
+    
+}
+.ekipcard:hover{
+    opacity: 0.8;
+}
